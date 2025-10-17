@@ -1,12 +1,12 @@
 # 🚀 Growth App Landing Page
 
-> 📚 This project was built by _m_ as part of a tutorial created by _Brad Traversy_ on his YouTube channel [Traversy Media](https://www.youtube.com/c/TraversyMedia). Huge thanks to Brad for his clear and professional guidance!
+> 📚 This project was fully built by me by following a complete tutorial from *Brad Traversy* on his YouTube channel [Traversy Media](https://www.youtube.com/c/TraversyMedia). All design, structure, and functionality were implemented based on his guidance. Huge thanks to Brad for the excellent walkthrough!
 
 A responsive and modern landing page for a startup growth tool, built with HTML, CSS, and JavaScript. This project showcases clean design, mobile-friendly layout, and interactive components like a FAQ accordion and hamburger menu.
 
 ## 📸 Preview
 
-![Growth App Screenshot](images/video-preview.png)
+![Growth App Screenshot](images/screen.png)
 
 ## 🛠 Technologies Used
 
@@ -43,3 +43,4 @@ project-root/
 │   ├── video-preview.png
 │   └── favicon.ico
 ```
+
